@@ -19,7 +19,7 @@ sequenceDiagram
 
     Developer->>Circom: Writes circuit definition
     Developer->>Circom: Compiles circuit
-    Developer->>Circom: Run Trusted Setup
+    Developer->>Circom: Runs Trusted Setup
     Circom->>Developer: Return the ZK artifacts
     Developer->>ProverModule: Installs Witness calculator & Proving key
     Developer->>Verifier: Deploys contract or service with .vkey.json 
