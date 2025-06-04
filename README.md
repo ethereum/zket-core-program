@@ -14,7 +14,11 @@ All materials and documents related to the 2023 curriculum are in the `2023` fol
 
 ### 2024 Curriculum
 
-The 2024 curriculum is currently being developed and can be found in the `2024` folder. We welcome contributions to this section.
+All materials and documents related to the 2024 curriculum are in the `2024` folder. These provide historical context and foundational content.
+
+### 2025 Curriculum
+
+The 2025 curriculum is currently being developed and can be found in the `2025` folder. We welcome contributions to this section.
 
 ## Contribution
 
